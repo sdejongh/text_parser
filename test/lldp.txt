@@ -1,0 +1,44 @@
+GigabitEthernet0/0/1 has 1 neighbors:
+
+Neighbor index : 1
+
+Basic port information
+-------------------------
+Chassis type                  :MAC address
+Chassis ID                    :5489-9876-b7d7
+Port ID type                  :Interface name
+Port ID                       :GigabitEthernet0/0/1
+Port description              :NULLA
+System name                   :S5700
+System description            :S5700-28C-PWR-EI
+Huawei Versatile Routing Platform Software
+ VRP (R) software,Version 5.110 (S5700 V200R001C00SPC100)
+ Copyright (C) 2007 Huawei Technologies Co., Ltd.System capabilities supported   :bridge
+System capabilities supported :bridge router
+System capabilities enabled   :bridge
+Management address type       :ipv4
+Management address            :192.168.40.103
+OID  :0.6.15.43.6.1.4.1.2011.5.25.41.1.2.1.1.1
+Expired time                  :98 s
+
+Neighbor index : 2
+
+Basic port information
+-------------------------
+Chassis type                  :MAC address
+Chassis ID                    :5489-9876-b997
+Port ID type                  :Interface name
+Port ID                       :GigabitEthernet0/0/2
+Port description              :NULL
+System name                   :S5700
+System description            :S5700-28C-PWR-EI
+Huawei Versatile Routing Platform Software
+ VRP (R) software,Version 5.110 (S5700 V200R001C00SPC100)
+ Copyright (C) 2007 Huawei Technologies Co., Ltd.System capabilities supported   :bridge
+System capabilities supported :bridge router firewall
+System capabilities enabled   :bridge router
+Management address type       :ipv4
+Management address            :192.168.40.104
+OID  :0.6.15.43.6.1.4.1.2011.5.25.41.1.2.1.1.2
+Expired time                  :120 s
+
